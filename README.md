@@ -1,1 +1,1 @@
-# d3d-connection-board
+# D3D-connection-board
