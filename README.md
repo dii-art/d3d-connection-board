@@ -1,1 +1,1 @@
-# D3D-connection-board
+# D3D-connector board
